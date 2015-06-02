@@ -1,4 +1,4 @@
-# Science_Toolbox
+# DataScienceCoursera
 
 Repository for the "Data Scientist's Toolbox" MOOC
 
