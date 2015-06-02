@@ -1,2 +1,5 @@
 # Science_Toolbox
-Data Scientist's Toolbox GitHub repository for coursework
+Respository Description:
+  Data Scientist's Toolbox GitHub repository for coursework.
+  
+More to come!
